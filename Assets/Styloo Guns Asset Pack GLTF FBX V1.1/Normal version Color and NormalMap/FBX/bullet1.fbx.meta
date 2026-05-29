@@ -3,7 +3,17 @@ guid: 937f0af32dc554548865b2269b6866ab
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bulletmat_color
+    second: {fileID: 2800000, guid: d14ba4462154e5248be7e863d6e41a50, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bulletmat_normal
+    second: {fileID: 2800000, guid: 6a2b5d8b0047f4146a0391000c51612a, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
